@@ -1,7 +1,7 @@
 [workspace]
 resolver = "2"
 
-members = [
+members = [ "hello_microbit",
   "projects/01_hello_microbit",
   "projects/02_led_microbit",
   "projects/03_led_microbit_improved",
